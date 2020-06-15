@@ -22,15 +22,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/qbright/electron-task-queues.git"
+    "url": "git+https://github.com/qbright/electron-http-similar.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/qbright/electron-task-queues/issues"
+    "url": "https://github.com/qbright/electron-http-similar/issues"
   },
-  "homepage": "https://github.com/qbright/electron-task-queues#readme",
+  "homepage": "https://github.com/qbright/electron-http-similar#readme",
   "dependencies": {
     "electron": "^9.0.4",
     "typescript": "^3.9.5"
