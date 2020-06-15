@@ -32,7 +32,11 @@
   },
   "homepage": "https://github.com/qbright/electron-task-queues#readme",
   "dependencies": {
+    "electron": "^9.0.4",
     "typescript": "^3.9.5"
+  },
+  "peerDependencies": {
+    "electron": "^9.0.4"
   },
   "devDependencies": {
     "cross-env": "^7.0.2",
