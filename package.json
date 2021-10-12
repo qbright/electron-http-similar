@@ -32,11 +32,11 @@
   },
   "homepage": "https://github.com/qbright/electron-http-similar#readme",
   "dependencies": {
-    "electron": "^9.0.4",
+    "electron": "^11.5.0",
     "typescript": "^3.9.5"
   },
   "peerDependencies": {
-    "electron": "^9.0.4"
+    "electron": "^11.5.0"
   },
   "devDependencies": {
     "cross-env": "^7.0.2",
